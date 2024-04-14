@@ -6,7 +6,7 @@ public class Knight extends ChessPiece {
 
     @Override
     public boolean canMove(int newPosition, int newColumn) {
-        // Check if the move is valid for a knight
+        
         return true;
     }
 }
